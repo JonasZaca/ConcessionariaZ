@@ -1,2 +1,1 @@
-Testando as configurações do GITHUB.
-Esta tudo OK!
+Projeto de Venda de Veículos, controle de estoque, e cadastro de Veículos.
